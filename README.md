@@ -1,4 +1,7 @@
 ## Idle-Minor-Tycoon-clone
+
+Please play in Editor. The Build version won't work correctly.
+
 #Gameplay
 
 Touch (with Left Mouse Button) the workers and collect Money to upgrade the workers or buy new floors to work with. 
